@@ -1,0 +1,65 @@
+ body{
+    width:100%;
+	height:100%;
+	margin:0;
+	padding:0;
+	border:0;
+	background:#fff;
+}
+ 
+ #columnContent{
+    max-width:800px;
+	margin:0 auto;
+	padding:1.5em 0;
+	font-size:1.2em;
+	overflow:hidden;
+} 
+
+h1{
+   color:#000080;
+   font-size:1.35em;
+}
+h2{
+   color:#000080;
+   font-size:1.25em;
+}
+.headr a{
+   cursor:pointer;
+}
+#wiki{
+    max-width:750px;
+	margin:0 auto;
+	padding:1.5em 0;
+	display:inline-block;
+	font-size:1.2em;
+	line-height:1.6em;
+}
+#output li {
+   width:90%;
+   list-style:none;
+   background:#fbf2ea;
+   line-height:1.4em;
+   font-size:1.1em;
+   text-align:center;
+   bottom-border: 1px solid #7d500b;
+}
+#output li a {
+   width:90%;
+   color:#000080;
+}
+p {
+   text-align:left;
+   color:#7d500b;
+    padding-left:1.5em;
+}
+.title{
+   float:left;
+   text-align:center;
+}
+.wimg {
+   float:right;
+}
+.ftr{
+   width:90%;
+   margin: 10px auto;
+}
